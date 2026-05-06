@@ -24,6 +24,8 @@ Among my most relevant work: diagnosing and fixing a critical failure in a produ
 
 I enjoy building things outside of work too — you'll find projects in Rust and Python here.
 
+I work with **Claude Code** as my main AI coding assistant. My recent personal projects are built hand-in-hand with it — from architecture decisions to debugging. I'm a strong believer that knowing how to leverage AI tools effectively is part of being a good developer in 2025.
+
 ---
 
 ## Tech Stack
@@ -54,6 +56,7 @@ I enjoy building things outside of work too — you'll find projects in Rust and
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-black?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
@@ -63,14 +66,19 @@ I enjoy building things outside of work too — you'll find projects in Rust and
 |---|---|---|
 | [CrawlerOS](https://github.com/Sefirr-dot/CrawlerOS) | Command-line web crawler for the modern web | Python |
 | [RustAnmp](https://github.com/Sefirr-dot/Rustanmp) | Personal project exploring systems programming | Rust |
+| [BetWinninGames](https://github.com/Sefirr-dot/BetWinninGames) | Sports betting predictor using data analysis | Python |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sefirr-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sefirr-dot&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sefirr-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sefirr-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sefirr-dot&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
