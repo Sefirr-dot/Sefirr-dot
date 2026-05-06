@@ -64,6 +64,7 @@ I work with **Claude Code** as my main AI coding assistant. My recent personal p
 
 | Project | Description | Stack |
 |---|---|---|
+| [hiretrack-api](https://github.com/Sefirr-dot/hiretrack-api) | Production-grade job application tracker — Spring Boot 3, JWT, Redis, Quartz, Testcontainers | Java |
 | [CrawlerOS](https://github.com/Sefirr-dot/CrawlerOS) | Command-line web crawler for the modern web | Python |
 | [RustAnmp](https://github.com/Sefirr-dot/Rustanmp) | Personal project exploring systems programming | Rust |
 | [BetWinninGames](https://github.com/Sefirr-dot/BetWinninGames) | Sports betting predictor using data analysis | Python |
