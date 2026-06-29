@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-miguelleongm-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat"/>
+  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat"/>
   <img src="https://img.shields.io/badge/English-B2%20Cambridge%20First-blue?style=flat"/>
 </p>
 
