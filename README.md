@@ -24,7 +24,7 @@ Among my most relevant work: diagnosing and fixing a critical failure in a produ
 
 I enjoy building things outside of work too — you'll find projects in Rust and Python here.
 
-I work with **Claude Code** as my main AI coding assistant. My recent personal projects are built hand-in-hand with it — from architecture decisions to debugging. I'm a strong believer that knowing how to leverage AI tools effectively is part of being a good developer in 2025.
+I work with **Claude Code** as my main AI coding assistant. My recent personal projects are built hand-in-hand with it — from architecture decisions to debugging. I'm a strong believer that knowing how to leverage AI tools effectively is part of being a good developer in 2026.
 
 ---
 
@@ -42,16 +42,22 @@ I work with **Claude Code** as my main AI coding assistant. My recent personal p
 **Frontend**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Data**
 
 ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Tools & Other**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -67,7 +73,7 @@ I work with **Claude Code** as my main AI coding assistant. My recent personal p
 | [hiretrack-api](https://github.com/Sefirr-dot/hiretrack-api) | Production-grade job application tracker — Spring Boot 3, JWT, Redis, Quartz, Testcontainers | Java |
 | [CrawlerOS](https://github.com/Sefirr-dot/CrawlerOS) | Command-line web crawler for the modern web | Python |
 | [RustAnmp](https://github.com/Sefirr-dot/Rustanmp) | Personal project exploring systems programming | Rust |
-| [BetWinninGames](https://github.com/Sefirr-dot/BetWinninGames) | Sports betting predictor using data analysis | Python |
+| [BetWinninGames](https://github.com/Sefirr-dot/BetWinninGames) | Football prediction engine — Dixon-Coles/Elo ensemble, leak-free walk-forward backtesting, probability calibration & a React dashboard | Python · React · TS |
 
 ---
 
